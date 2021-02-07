@@ -1,2 +1,3 @@
 # programming-assignment-1---closest-number-Cate865
-programming-assignment-1---closest-number-Cate865 created by GitHub Classroom
+Closest Numbers
+Given a list of unsorted integers, , find the pair of elements that have the smallest absolute difference between them. If there are multiple pairs, find them all.
